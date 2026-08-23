@@ -42,18 +42,4 @@ Professional documentation of my journey from Python basics to advanced architec
 
 ---
 
-## 🛠️ Project Showcase
-*Real-world applications built during this journey.*
 
-| Project Name | Description | Status |
-| :--- | :--- | :--- |
-| **Quiz App** | A terminal-based dynamic quiz | ⏳ Pending |
-| **Password Manager** | Securely store and generate passwords | ⏳ Pending |
-| **To-Do List** | Task management with file persistence | ⏳ Pending |
-
----
-
-## 📈 Learning Activity
-> **Latest Update:** Just finished mastering **Python Lists**. Learned how to manipulate data using `.append()`, `.pop()`, and list comprehensions. Moving onto **Tuples** next to understand immutability.
-
----
