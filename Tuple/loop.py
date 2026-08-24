@@ -1,4 +1,4 @@
-fruits = ("cherry", "mango", "orange")
+age = ("10", "29", "34")
 
-for fruit in fruits:
-    print("Fruits:", fruit)
+for age in age:
+    print("age:", age)

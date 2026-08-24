@@ -1,9 +1,8 @@
 # Removing Items from List
+cars_list = ["BMW", "Audi", "Porche"]
 
-fruits = ["apple", "banana", "cherry"]
+cars_list.remove("Porche")   # removes by value
+print(cars_list)
 
-fruits.remove("banana")   # removes by value
-print(fruits)
-
-fruits.pop(0)             # removes by index
-print(fruits)
+cars_list.pop(0)             # removes by index
+print(cars_list)

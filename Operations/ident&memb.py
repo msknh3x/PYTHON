@@ -6,6 +6,6 @@ print("a is b:", a is b)
 print("a is not b:", a is not b)
 
 # membership
-fruits = ["apple", "mango", "orange"]
-print("Is 'apple' in fruits?", "apple" in fruits)
-print("Is 'grape' not in fruits?", "grape" not in fruits)
+names = ["Muskan", "Sana", "Hamna"]
+print("Is 'Muskan' in names?", "Muskan" in names)
+print("Is 'Saman' not in names?", "Saman" not in names)

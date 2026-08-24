@@ -1,7 +1,7 @@
-fruits = ["apple", "banana"]
+students_name = ["Mehr", "Ayesha"]
 
-fruits.append("cherry") # append adds item at the end
-print(fruits)
+students_name.append("Mehr") # append adds item at the end
+print(students_name)
 
-fruits.insert(0, "orange") # insert add item at specific index
-print(fruits) 
+students_name.insert(1, "Zoha") # insert add item at specific index
+print(students_name) 

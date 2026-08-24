@@ -1,4 +1,5 @@
-fruits = ["apple", "banana", "cherry"]
+stationary = ["pen", "eraser", "ruler"]
 
-for fruits in fruits:
-    print("Fruits:", fruits)
+for stationary in stationary:
+    print("stationary:", stationary)
+    

@@ -1,6 +1,6 @@
-fruits = ["strawberry", "cherry", "mango"]
+boys_names = ["Ali", "Zain", "Saim"]
 
-print(fruits)
-print(fruits[0])
-print(fruits[1])
-print(fruits[2])
+print(boys_names)
+print(boys_names[0])
+print(boys_names[1])
+print(boys_names[2])
