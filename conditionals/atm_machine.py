@@ -11,7 +11,7 @@ if choice == 1:
     else:
         print("Insufficient funds!")
 elif choice == 2:
-    amount = int(input("Enter amoubt to deposit:"))
+    amount = int(input("Enter amount to deposit:"))
     balance += amount
     print("'Deposit successful! New balance:", balance)
 else:
