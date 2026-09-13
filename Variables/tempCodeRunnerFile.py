@@ -1,1 +1,0 @@
-print("Account Locked:", account_locked)

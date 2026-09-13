@@ -19,7 +19,7 @@ print("Failed Attempts:", failed_attempts)
 print("IP Address:", ip_address)
 
 # display data types
-print("\nDate Types:")
+print("\nData Types:")
 
 print(type(username))
 print(type(age))
