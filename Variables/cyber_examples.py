@@ -6,7 +6,7 @@ account_balance = 1500.32
 #security info
 is_authenticated = True
 failed_attempts = 3
-ip_address = "192.343.1.34"
+ip_address = "192.168.1.10"
 
 # display user info
 print("Username:", username)
