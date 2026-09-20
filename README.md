@@ -41,5 +41,3 @@ Professional documentation of my journey from Python basics to advanced architec
 - [ ] **Advanced Concepts** (Decorators, Generators, Recursion)
 
 ---
-
-
