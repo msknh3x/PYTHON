@@ -1,43 +1,38 @@
-# 🐍 Python Mastery: Roadmap & Progress
+# 🐍 Python Fundamentals & Scripting Lab
 
-![Progress](https://img.shields.io/badge/Learning_Progress-35%25-green?style=for-the-badge&logo=python)
-![Language](https://img.shields.io/badge/Language-Python_3.x-blue?style=for-the-badge&logo=python)
-![Status](https://img.shields.io/badge/Status-In_Progress-orange?style=for-the-badge)
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&width=435&lines=Hands-on+Python+Journey;Mastering+Core+Fundamentals;Variables+Deep+Dive+In-Progress...;Building+Clean+%26+Modular+Code" alt="Typing SVG" />
+</p>
 
-Professional documentation of my journey from Python basics to advanced architecture. This repository serves as a code diary and a reference for my future projects.
-
----
-
-## 📊 Phase 1: The Fundamentals (Completed ✅)
-*Core logic and syntax foundations.*
-
-- [x] **Variables & Data Types** (Integers, Strings, Floats, Booleans)
-- [x] **Operators** (Arithmetic, Comparison, Logical, Identity)
-- [x] **Conditional Statements** (if, elif, else)
-- [x] **Loops** (for, while, break, continue)
-- [x] **Functions** (Parameters, return values, defaults)
-- [x] **Lists** (Indexing, slicing, list methods)
+A structured workspace tracking my progression through foundational Python concepts, algorithmic problem solving, and practical exercises.
 
 ---
 
-## 🏗️ Phase 2: Intermediate Data Structures (Current Focus 🎯)
-*Organizing and handling complex data.*
+## 🎯 Current Focus: Variables Mastery
 
-- [ ] **Tuples** (Immutable sequences)
-- [ ] **Sets** (Unique collections & Venn operations)
-- [ ] **Dictionaries** (Key-Value mapping)
-- [ ] **String Methods** (Advanced text parsing)
-- [ ] **Input/Output** (User interaction)
+Currently deep-diving into memory assignment, type casting, input handling, and practical foundation scripts.
+
+### 📌 Core Concepts
+- **Syntax & Semantics:** Variable declarations, naming rules, and mutability.
+- **Dynamic Typing:** Type inspection, explicit type casting, and conversions.
+- **Input & Formatting:** Dynamic user input and clean string formatting via `f-strings`.
+- **Applied Scripts:** Arithmetic logic, state handling, and security-oriented exercises.
 
 ---
 
-## ⚙️ Phase 3: Advanced Logic & OOP
-*Writing scalable and professional code.*
+## 🧭 Learning Roadmap
 
-- [ ] **File Handling** (Reading/Writing `.txt` and `.csv`)
-- [ ] **Exception Handling** (Try/Except/Finally)
-- [ ] **Classes & Objects** (OOP, Constructors, Methods)
-- [ ] **Modules & Libraries** (Math, Random, Datetime)
-- [ ] **Advanced Concepts** (Decorators, Generators, Recursion)
+### 🔄 Active Module
+- [x] **Variables & Fundamentals** — *In Progress*
+
+### ⏳ Pending Modules
+- [ ] **Data Types** — Primitive data types & structured profiles
+- [ ] **Operations** — Arithmetic, comparisons, logical flow & identity checks
+- [ ] **Conditionals** — Decision trees, branching logic & input validation
+- [ ] **Loops** — Iteration, control flow (`break`/`continue`) & algorithms
+- [ ] **Lists** — Sequence manipulation, indexing & slicing
+- [ ] **Tuples** — Immutable collections & data packing/unpacking
+- [ ] **Sets** — Unordered collections, membership & deduplication
+- [ ] **Functions** — Scopes, parameters, return values & modular scripts
 
 ---
